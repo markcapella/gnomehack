@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=gnomehack
+
+Exec=gnomehack
+Type=Application
+
+Icon=gnomehack
+X-KDE-StartupNotify=true
+
+Categories=Utility;
